@@ -155,14 +155,17 @@ Badge | URL
 <br/>
 
 
-#### Como coloar a URL
+#### Como colocar a URL
 
 A URL deve estar dentro de ```<img src="...."```>.
 
 Exemplo: 
 
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"> 
-```<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">```
+
+```html
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+```
 <br/>
 
 #### Como fazer alterações de formato
