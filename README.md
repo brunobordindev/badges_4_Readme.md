@@ -155,7 +155,7 @@ Badge | URL
 <br/>
 
 
-#### Como colocar a URL
+### Como colocar a URL
 
 A URL deve estar dentro de ```<img src="...."```>.
 
@@ -168,7 +168,7 @@ Exemplo:
 ```
 <br/>
 
-#### Como fazer alterações de formato
+### Como fazer alterações de formato
 
 Você pode mudar o estilo do formado alternado por o que voce queira, como se encontra a cima:
 
@@ -182,7 +182,7 @@ Badge | Aonde alterar (alterar no negrito)
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> | ```<img src="https://img.shields.io/badge/WhatsApp-25D366```**?style=for-the-badge**```&logo=whatsapp&logoColor=white">```
 <br/>
 
-#### Como fazer alterações de cor
+### Como fazer alterações de cor
 
 Lembrando que o ideal seria colocar a cor do fundo padrão da marca, mas você pode colocar do seu gosto.
 
@@ -196,7 +196,7 @@ Badge | Aonde alterar (alterar cor)
 <img src="https://img.shields.io/badge/WhatsApp-FF0000?style=flat&logo=whatsapp&logoColor=white"> | ```<img src="https://img.shields.io/badge/WhatsApp-```**FF0000**```?style=flat&logo=whatsapp&logoColor=white">```
 <img src="https://img.shields.io/badge/WhatsApp-4f4578?style=flat&logo=whatsapp&logoColor=white"> | ```<img src="https://img.shields.io/badge/WhatsApp-```**4f4578**```?style=flat&logo=whatsapp&logoColor=white">```
 
-#### Como colocar o seu número telefonico dentro da Badge WhatsApp.
+### Como colocar o seu número telefonico dentro da Badge WhatsApp.
 
 Aqui vamos ensinar como colocar dentro de uma badge o número que você quer que ela acione. Lebrando que precisa colocar o DDD com dois dígitos, aqui em Curitiba é 41.
 
